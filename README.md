@@ -1,4 +1,4 @@
-# Hi everyone 👋
+# Hi everyone
 Programming makes me happy.😄
 <!--
 **mercuryZ/mercuryZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
